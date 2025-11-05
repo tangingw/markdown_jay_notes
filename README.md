@@ -27,3 +27,6 @@ Below is a collection of youtube videos about how to contribute to Python Develo
 
 ## PSF Infrastructure
 * [Behind the Scenes: PSF Infrastructure and How You Can Contribute — Jacob Coffee](https://www.youtube.com/watch?v=H2UrdiI7xZ4)
+
+## PSF Security
+* [Python Software Foundation - Meet our Security Engineers](https://www.youtube.com/watch?v=S_50jInetMA)
